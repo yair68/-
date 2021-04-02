@@ -12,4 +12,4 @@ answers[1] = prompt('Как ваша фамилия?', '');
 old[2] = prompt('сколько вам лет?', '');
 
 alert(`Привет, ${answers}`);
-document.write(answers);
+document.write(`Привет, ${answers}`);
